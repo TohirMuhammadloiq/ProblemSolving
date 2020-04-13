@@ -4,7 +4,7 @@ public class ProblemSolving{
 
         public int countPrimeNumbersFromGivenIntegers(int starting, int ending){
             int count = 0;
-
+            System.out.println("Hello Tohir! ");
             for(int i = starting; i<ending; i++){
 
                 if(this.isPrime(i)){
